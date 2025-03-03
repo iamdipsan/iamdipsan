@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dipsan Kadariya</h1>
+<h1 align="center">Hi 👋, I'm Dipsan </h1>
 <h3 align="center">I am passionate in the field Machine Learning ,Deep Learning and AI.</h3>
 
 <p align="left"> <a href="https://twitter.com/dipson_kadariya" target="blank"><img src="https://img.shields.io/twitter/follow/dipson_kadariya?logo=twitter&style=for-the-badge" alt="dipson_kadariya" /></a> </p>
