@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipsan</h1>
-<h3 align="center">Machine Learning | Deep Learning | AI Enthusiast</h3>
+<h3 align="center">Machine Learning | Deep Learning | </h3>
 
 <div align="center">
   <a href="https://twitter.com/dipson_kadariya" target="_blank">
@@ -13,8 +13,6 @@
 
 - 🌱 Currently learning and building projects in **Machine Learning, Deep Learning, and AI**.
 - 💬 Ask me about Python, ML algorithms, Neural Networks, and Computer Vision.
-- 📝 I regularly share insights on [dev.to/dipsankadariya](https://dev.to/dipsankadariya).
-- ⚡ Fun fact: I code intensely and nap intentionally.
 
 ---
 
