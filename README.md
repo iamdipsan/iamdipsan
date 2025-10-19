@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🌱 Currently learning and building projects in **Machine Learning, Deep Learning, and AI**.
-- 💬 Ask me about Python, ML algorithms, Neural Networks, and Computer Vision.
+- 💬 Ask me about Python, ML algorithms, Neural Networks, and NLP.
 
 ---
 
